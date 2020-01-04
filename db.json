@@ -32,22 +32,22 @@
   "techs": [
     {
       "id": 1,
-      "firstname": "Abdulfatai",
-      "lastname": "Suleiman"
+      "firstName": "Abdulfatai",
+      "lastName": "Suleiman"
     },
     {
       "id": 2,
-      "firstname": "John",
-      "lastname": "Doe"
+      "firstName": "John",
+      "lastName": "Doe"
     },
     {
       "id": 3,
-      "firstname": "Bobby",
-      "lastname": "Java"
+      "firstName": "Bobby",
+      "lastName": "Java"
     },
     {
-      "firstname": "Elvon",
-      "lastname": "Dude",
+      "firstName": "Elvon",
+      "lastName": "Dude",
       "id": 4
     }
   ]
