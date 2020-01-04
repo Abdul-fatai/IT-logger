@@ -1,0 +1,54 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Workstation 007 not posting",
+      "attention": true,
+      "date": "03-02-2019",
+      "tech": "John Doe"
+    },
+    {
+      "id": 2,
+      "message": "system not booting on workstation 007 ",
+      "attention": false,
+      "date": "03-02-2019",
+      "tech": "Bobby Doe"
+    },
+    {
+      "id": 3,
+      "message": "Harddrive Workstation 007",
+      "attention": true,
+      "date": "03-02-2019",
+      "tech": "Sam Doe"
+    },
+    {
+      "id": 4,
+      "message": " Changed memory workstation 007 not posting",
+      "attention": false,
+      "date": "03-02-2019",
+      "tech": "John Doe"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstname": "Abdulfatai",
+      "lastname": "Suleiman"
+    },
+    {
+      "id": 2,
+      "firstname": "John",
+      "lastname": "Doe"
+    },
+    {
+      "id": 3,
+      "firstname": "Bobby",
+      "lastname": "Java"
+    },
+    {
+      "firstname": "Elvon",
+      "lastname": "Dude",
+      "id": 4
+    }
+  ]
+}
