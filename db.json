@@ -1,18 +1,18 @@
 {
   "logs": [
     {
+      "id": 1,
       "message": "Fixed hard drive on server #420",
       "attention": false,
       "tech": "Sam Smith",
-      "date": "2020-01-05T16:49:31.437Z",
-      "id": 1
+      "date": "2020-01-05T17:53:45.299Z"
     },
     {
-      "message": "Wireless card down on workstation #4444",
-      "attention": true,
-      "tech": "Sam Smith",
-      "date": "2020-01-05T16:53:45.636Z",
-      "id": 3
+      "id": 3,
+      "message": "Wireless card fixed on workstation #4444",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2020-01-05T17:53:13.840Z"
     }
   ],
   "techs": [
