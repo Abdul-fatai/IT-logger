@@ -15,21 +15,5 @@
       "date": "2020-01-05T22:49:04.677Z"
     }
   ],
-  "techs": [
-    {
-      "firstName": "Abdulfatai",
-      "lastName": "Suleiman",
-      "id": 1
-    },
-    {
-      "firstName": "Bobby",
-      "lastName": "Java",
-      "id": 2
-    },
-    {
-      "firstName": "Elvon",
-      "lastName": "C#",
-      "id": 3
-    }
-  ]
+  "techs": []
 }

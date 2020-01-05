@@ -32,6 +32,12 @@ export default (state = initialState, action) => {
         ...state,
         loading: true
       };
+
+      case DELETE_TECH: 
+      return {
+        ...state,
+        
+      }
     case TECHS_ERROR:
       console.error(action.payload);
       return {
