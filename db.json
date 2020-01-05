@@ -1,32 +1,25 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Workstation 007 not posting",
-      "attention": true,
-      "date": "03-02-2019",
-      "tech": "John Doe"
-    },
-    {
-      "id": 2,
-      "message": "system not booting on workstation 007 ",
+      "message": "Fixed hard drive on server #420",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Bobby Doe"
+      "tech": "Sam Smith",
+      "date": "2020-01-05T16:49:31.437Z",
+      "id": 1
     },
     {
-      "id": 3,
-      "message": "Harddrive Workstation 007",
+      "message": "System not booting on workstation #0005",
       "attention": true,
-      "date": "03-02-2019",
-      "tech": "Sam Doe"
+      "tech": "John Doe",
+      "date": "2020-01-05T16:50:21.844Z",
+      "id": 2
     },
     {
-      "id": 4,
-      "message": " Changed memory workstation 007 not posting",
-      "attention": false,
-      "date": "03-02-2019",
-      "tech": "John Doe"
+      "message": "Wireless card down on workstation #4444",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2020-01-05T16:53:45.636Z",
+      "id": 3
     }
   ],
   "techs": [
