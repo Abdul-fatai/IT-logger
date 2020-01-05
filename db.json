@@ -1,18 +1,18 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Fixed hard drive on server #420",
+      "message": "Bought new harddrive",
       "attention": false,
-      "tech": "Sam Smith",
-      "date": "2020-01-05T17:53:45.299Z"
+      "tech": "Abdulfatai Suleiman",
+      "date": "2020-01-05T22:18:50.282Z",
+      "id": 1
     },
     {
-      "id": 3,
-      "message": "Wireless card fixed on workstation #4444",
-      "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2020-01-05T17:53:13.840Z"
+      "message": "Something is going on line 25#",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-01-05T22:19:22.527Z",
+      "id": 2
     }
   ],
   "techs": [
