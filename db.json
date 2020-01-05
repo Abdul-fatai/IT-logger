@@ -1,19 +1,4 @@
 {
-  "logs": [
-    {
-      "message": "Hard drive fixed on workstation #110",
-      "attention": true,
-      "tech": "Bobby Java",
-      "date": "2020-01-05T22:45:57.367Z",
-      "id": 1
-    },
-    {
-      "id": 2,
-      "message": "Wireless cable fixed on workstation #208",
-      "attention": false,
-      "tech": "Bobby Java",
-      "date": "2020-01-05T22:49:04.677Z"
-    }
-  ],
+  "logs": [],
   "techs": []
 }
