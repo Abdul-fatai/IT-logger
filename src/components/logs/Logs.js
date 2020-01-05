@@ -3,7 +3,7 @@ import LogItem from './LogItem';
 import { connect } from 'react-redux';
 import Preloader from '../layouts/Preloader';
 import PropTypes from 'prop-types';
-import { getLogs } from '../../actions/logAction';
+import { getLogs } from '../../actions/logActions';
 
 const Logs = ({ log: { logs, loading }, getLogs }) => {
   useEffect(() => {

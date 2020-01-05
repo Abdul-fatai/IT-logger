@@ -8,13 +8,6 @@
       "id": 1
     },
     {
-      "message": "System not booting on workstation #0005",
-      "attention": true,
-      "tech": "John Doe",
-      "date": "2020-01-05T16:50:21.844Z",
-      "id": 2
-    },
-    {
       "message": "Wireless card down on workstation #4444",
       "attention": true,
       "tech": "Sam Smith",
